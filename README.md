@@ -15,6 +15,13 @@ It was developed for the WebApps project at Imperial, in 2017.
 
 * A central aspect is that users can contribute with their own questions on a topic of their choice.
 
+## Contributors
+
+* Adrian Catana
+* Andrei-Octavian Brabete
+* Ioan Budea
+* Alexandru Dan
+
 ## Try it: http://cerebroapp.herokuapp.com/
 
 ![Screenshots](https://writelatex.s3.amazonaws.com/wrzznyjzdvmx/uploads/325/13697409/1.png)
